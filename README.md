@@ -20,7 +20,7 @@ I am currently working as an IT  FullStack developer in SNUH venture from 2022.<
  📕 Basic Chinese
    
     
-    <p align="center">
+ 
   <Strong> ✈️OverSeas Experience✈️ </Strong> <br>
 </p>
 
