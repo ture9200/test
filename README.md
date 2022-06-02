@@ -21,7 +21,7 @@ I am currently working as an IT  FullStack developer in SNUH venture from 2022.<
    
     
  
-  <Strong> ✈️OverSeas Experience✈️ </Strong> <br>
+  <Strong> ✈️OVERSEAS EXPERIENCE✈️ </Strong> <br>
 </p>
 
    
