@@ -6,28 +6,45 @@
 
 
 🐣 SungEun 🐥  <br> 
-I am currently working as an IT developer in SNUH venture from 2022.<br>
+I am currently working as an IT  FullStack developer in SNUH venture from 2022.<br>
 
-<Strong>📧Email📧</Strong><br>didtjddms09@naver.com<br>
+<Strong>📧CONTACT 📧</Strong><br>
+    didtjddms09@naver.com<br>
+    ture9200116@gmail.com<br>
+    ture9200116@daum.net <br>
+    Do not hesitate to contact me if you have any question !  
+   
+  <Strong> 😆LANGUAGES😆 </Strong> <br>
+ 📒 Korean 
+ 📗 English 
+ 📕 Basic Chinese
+   
+    
+    <p align="center">
+  <Strong> ✈️OverSeas Experience✈️ </Strong> <br>
+</p>
 
-  <Strong> Languages </Strong> <br> 
- 📒 Korean <br>
- 📗 English <br>
- 📕 Basic Chinese<br> 
-  
+   
+  🇳🇿  NewZealand>>2010.07-2014.11 <br> 
+  🇦🇺  Austraila >>2015.06-2018.07 
+      
    <p align="center">
-    <Strong>⚒️Tech skills⚒️</Strong><br>
+    <Strong>⚒️TECHNICAL SKILLS⚒️</Strong><br><br>
     💡used as the main <br> 
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=Brightgreen">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=green">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=blue">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-     
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&langs_count=8)](https://github.com/ture9200/github-readme-stats)
-<br>
+     </p>
     
-</p><br>
+ 
+
+<p align="center">
+    <Strong>➕ADDITIONALS➕</Strong><br>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&langs_count=8)](https://github.com/ture9200/github-readme-stats)
+   
 
 <p align="center">
     💡used at least once
