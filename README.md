@@ -33,8 +33,9 @@ I am currently working as an IT  FullStack developer in SNUH venture from 2022.<
     💡used as the main <br> 
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
      </p>
     
  
@@ -51,10 +52,11 @@ I am currently working as an IT  FullStack developer in SNUH venture from 2022.<
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/React.js-F7DF1E?style=for-the-badge&logo=react.js&logoColor=black">
- <img src= "https://img.shields.io/badge/Jquery-230769AD.svg?style=for-the-badge&logo=jquery&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-23563D7C?style=for-the-badge&logo=Python&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Node.js-FC624?style=for-the-badge&logo=Node.js&logoColor=black">  
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+ <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black">
+ <img src="https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=black">  
+  <img src="https://img.shields.io/badge/BootStrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
 </p>
 
 <br>
