@@ -52,8 +52,8 @@ I am currently working as an IT  FullStack developer in SNUH venture from 2022.<
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/React.js-F7DF1E?style=for-the-badge&logo=react.js&logoColor=black">
- <img src= "https://img.shields.io/badge/Jquery-230769AD.svg?style=for-the-badge&logo=jquery&logoColor=black")
-  <img src= "https://img.shields.io/badge/Bootstrap-23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black")
+ <img src= "https://img.shields.io/badge/Jquery-230769AD.svg?style=for-the-badge&logo=jquery&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-23563D7C?style=for-the-badge&logo=Python&logoColor=black"> 
   <img src="https://img.shields.io/badge/Node.js-FC624?style=for-the-badge&logo=Node.js&logoColor=black">  
 </p>
 
