@@ -6,7 +6,7 @@
 
 
 🐣 SungEun 🐥  <br> 
-I am currently working as an IT  FullStack developer in SNUH venture from 2022.<br>
+I am currently working as an IT  FullStack developer from 2022.<br>
 
 <Strong>📧CONTACT 📧</Strong><br>
     didtjddms09@naver.com<br>
