@@ -59,6 +59,7 @@ I am currently working as an IT developer from 2022.<br>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
  <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black">
  <img src="https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=black">  
   <img src="https://img.shields.io/badge/BootStrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black"> 
