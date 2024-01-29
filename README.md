@@ -44,7 +44,7 @@ I am currently working as an IT developer from 2022.<br>
     <Strong>➕ADDITIONALS➕</Strong><br>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&layout=compact&theme=nord&hide_border=true)](https://github.com/ture9200/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&theme=rose)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&theme=rose)]
 
 <p align="center">
     💡used at least once
