@@ -43,8 +43,9 @@ I am currently working as an IT developer from 2022.<br>
 <p align="center">
     <Strong>➕ADDITIONALS➕</Strong><br>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&langs_count=8)](https://github.com/ture9200/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&layout=compact&theme=nord&hide_border=true)](https://github.com/ture9200/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&theme=rose)
+출처: https://eunhee-programming.tistory.com/244 
    
 
 <p align="center">
