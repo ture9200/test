@@ -46,7 +46,8 @@ I am currently working as an IT developer from 2022.<br>
 
 <p align="center">
 <a href="https://github.com/ture9200">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&layout=compact&theme=nord&hide_border=true)](https://github.com/ture9200/github-readme-stats)
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="ture9200's github stats" /></a>
+<a href="https://github.com/ture9200">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture9200&theme=rose&show_icons=true)
 </a>
 </p>
