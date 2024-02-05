@@ -53,11 +53,6 @@ I am currently working as an IT developer from 2022.<br>
 <img src = "https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&&theme=rose")
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=oseung12&show_icons=true&theme=prussian" width=49.0% />
-</a>
-
-
 </p>
 
 <p align="center">
