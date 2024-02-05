@@ -46,11 +46,14 @@ I am currently working as an IT developer from 2022.<br>
 
 <p align="center">
 <a href="https://github.com/ture9200)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&layout=compact&theme=moltack&hide=Batchfile,Logos,C"  width=100.0% />
-<a href="https://github.com/anuraghazra/github-readme-stats">    
-<img src = "https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&&theme=rose" width=100.0% /)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ture9200&layout=compact&theme=moltack&hide=Batchfile,Logos,C"  />
 </a>
+    </p>
 
+  <p align="center">  
+<a href="https://github.com/anuraghazra/github-readme-stats">    
+<img src = "https://github-readme-stats.vercel.app/api?username=ture9200&show_icons=true&&theme=rose" /)
+</a>
 </p>
 
 <p align="center">
